@@ -1,4 +1,4 @@
-# awesome-type-theory
+# awesome-type-theory t : τ :: κ
 A compilation of good resources I've found for learning type theory.
 
 
