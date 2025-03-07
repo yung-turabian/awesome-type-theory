@@ -7,7 +7,8 @@ A compilation of good resources I've found for learning type theory.
 In essence, the type of a type. An order higher than the type, but resembles the relationship that types share with terms.
 
 ### Books
-
++ **Type Theory & Functional Programming** by Simon Thompson
+  + This is essential!
 
 ### Blogs
 
