@@ -15,7 +15,7 @@ A compilation of good resources I've found for learning type theory.
   + [Parametric overloading in polymorphic programming languages](https://link.springer.com/chapter/10.1007/3-540-19027-9_9) by Stefan Kaes (1988)
 + [A theory of qualified types](https://jgbm.github.io/eecs762f19/papers/jones.pdf) by Mark P. Jones
 + [Singleton Kinds and Singleton Types](https://www.cs.cmu.edu/~rwh/students/stone.pdf) by Christopher Allan Stone (2000)
-+ 
++ [An intuitionistic theory of types](https://archive-pml.github.io/martin-lof/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf) by Per Martin-Löf (1970)
 
 ### Blog posts
 
